@@ -3,4 +3,5 @@
 My notes for `Machine Learning`
 Currently I am learning, So I will be uplaoding on the go.
 
-P.S - Thanks for viewing my repo.
+I made some mini Projects for every algorithm of `Regression` and `Classification`.
+
